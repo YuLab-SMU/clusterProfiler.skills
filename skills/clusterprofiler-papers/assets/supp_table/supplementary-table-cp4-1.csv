@@ -1,0 +1,35 @@
+Function,Description
+enrichGO,ORA using GO
+enrichKEGG,ORA using KEGG pathway
+enrichMKEGG,ORA using KEGG module
+enrichWP,ORA using WikiPathways
+enricher,general interface for ORA
+gseGO,GSEA using GO
+gseKEGG,GSEA using KEGG pathway
+gseMKEGG,GSEA using KEGG module
+gseWP,GSEA using WikiPathways
+GSEA,general interface for GSEA
+compareCluster,compare functional profiles for genes obtained from different conditions
+merge_result,merge enrichment results for comparison
+read.gmt,parse gene set file in GMT format
+read.gmt.wp,parse WikiPathways GMT file
+download_KEGG,download the latest version of the KEGG pathway/module
+get_wp_organism,list supported organisms of WikiPathways
+bitr,biological ID translator using OrgDb
+bitr_kegg,biological ID translator using the KEGG database
+setReadable,convert IDs in enrichment result to human-readable gene symbols using OrgDb
+go2ont,"convert GO ID to corresponding ontology (BP, CC, MF)"
+go2term,convert GO ID to a descriptive term
+ko2name,convert KO ID to a descriptive name
+buildGOmap,infer GO indirect annotation from direct annotation
+browseKEGG,open specific KEGG pathway in a web browser with genes highlighted
+dropGO,drop GO terms of specific level or a specific terms (mostly too general) from enrichment result
+gofilter,restrict enrichment result at a specific GO level
+geneInCategory,extract input genes (for ORA) or core enriched genes (for GSEA) that belong to a specific functional category
+simplify,remove redundant GO terms from enrichment result
+arrange,order enrichment result by the values of selected variables
+filter,subset enrichment result that satisfies user conditions
+group_by,group enrichment results by selected variable
+mutate,add new variable to enrichment result
+select,select variables in enrichment result
+summarise,create summary statistics from enrichment result

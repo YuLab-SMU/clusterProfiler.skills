@@ -1,0 +1,42 @@
+**Package**,**Description**,**repo**
+AutoPipe,Automated transcriptome classifier pipeline: comprehensive transcriptome analysis,CRAN
+DRviaSPCN,Drug repurposing in cancer via a subpathway crosstalk network,CRAN
+genekitr,Gene analysis toolkit,CRAN
+Grouphmap,’Grouphmap’ is an automated one-step common analysis of batch expression profile,CRAN
+immcp,Poly-pharmacology toolkit for traditional Chinese medicine research,CRAN
+pathwayTMB,Pathway-based tumor mutational burden,CRAN
+PMAPscore,Identify prognosis-related pathways altered by somatic mutation,CRAN
+RVA,RNA sequencing visualization automation,CRAN
+tinyarray,Expression data analysis and visualization,CRAN
+TOmicsVis,Transcriptome visualization process scheme,CRAN
+bioCancer,Interactive multiomics cancers data visualization and analysis,Bioconductor
+CBNplot,Plot Bayesian network inferred from gene expression data based on enrichment analysis results,Bioconductor
+CEMiTool,Co-expression modules identification tool,Bioconductor
+CeTF,Coexpression for transcription factors using regulatory impact factors and partial correlation and information theory analysis,Bioconductor
+debrowser,Interactive differential expresion analysis browser,Bioconductor
+EasyCellType,Annotate cell types for single-cell RNA sequencing data,Bioconductor
+eegc,Engineering evaluation by gene categorization (eegc),Bioconductor
+enrichTF,Transcription factors enrichment analysis,Bioconductor
+esATAC,An easy-to-use systematic pipeline for transposase-accessible chromatin sequencing (ATACseq) data analysis,Bioconductor
+famat,Functional analysis of metabolic and transcriptomic data,Bioconductor
+fcoex,Fast correlation-based filter algorithm (FCBF)-based co-expression networks for single cells,Bioconductor
+GDCRNATools,"an R/Bioconductor package for integrative analysis of long non-coding RNA (lncRNA), mRNA and microRNA (miRNA) data in Genomic Data Commons (GDC)",Bioconductor
+goSorensen,Statistical inference based on the Sorensen–Dice dissimilarity and the GO,Bioconductor
+IRISFGM,Comprehensive Analysis of Gene Interactivity Networks Based on Single-Cell RNA-Seq,Bioconductor
+MAGeCKFlute,Integrative analysis pipeline for pooled clustered regularly interspaced short palindromic repeats functional genetic screens,Bioconductor
+MetaPhOR,Metabolic pathway analysis of RNA,Bioconductor
+methylGSA,Gene set analysis using the outcome of differential methylation,Bioconductor
+MicrobiomeProfiler,An R/shiny package for microbiome functional enrichment analysis,Bioconductor
+miRspongeR,Identification and analysis of miRNA sponge regulation,Bioconductor
+MoonlightR,Identify oncogenes and tumor suppressor genes from omics data,Bioconductor
+multiSight,"Multiomics classification, functional enrichment and network inference analysis",Bioconductor
+PanomiR,Detection of miRNAs that regulate interacting groups of pathways,Bioconductor
+PFP,Pathway fingerprint framework in R,Bioconductor
+Pigengene,Infers biological signatures from gene expression data,Bioconductor
+seqArchRplus,Downstream analyses of promoter sequence architectures and HTML report generation,Bioconductor
+signatureSearch,Environment for gene expression searching combined with functional enrichment analysis,Bioconductor
+TimiRGeN,"Time sensitive microRNA–mRNA integration, analysis and network generation tool",Bioconductor
+ExpHunterSuite,Package for the comprehensive analysis of transcriptomic data,Bioconductor
+maEndToEnd,An end-to-end workflow for differential gene expression using Affymetrix microarrays,Bioconductor
+recountWorkflow,"recount workflow: accessing over 70,000 human RNA sequencing samples with Bioconductor",Bioconductor
+TCGAWorkflow,TCGA workflow analyze cancer genomics and epigenomics data using Bioconductor packages,Bioconductor

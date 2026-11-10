@@ -1,0 +1,5 @@
+# Python runtime for the generated clusterProfiler MCP server.
+# Only fastmcp is needed: the tools shell out to Rscript and parse the CSV/JSON
+# artifacts with the standard library (csv, json, subprocess, pathlib).
+fastmcp>=2.12,<5
+mcp>=1.2

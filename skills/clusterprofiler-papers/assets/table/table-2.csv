@@ -1,0 +1,3 @@
+Step,Problem,Possible reason,Solution
+"Procedure 1, Step 2","Error in compareCluster(geneClusters = genelist, fun = “enrichKEGG”, organism = “ko”): No gene can be mapped",The enrichKEGG function requires an internet connection to download KO data for enrichment analysis,Check that your running environment has a stable and reliable network connection
+,,The input gene ID may not match the KEGG annotation ID,"Check the input gene ID to make sure it is in the correct format, which should be a K number ID (e.g., ‘K00004’ or ‘K00007’); ensure that there are no unnecessary characters such as spaces in the ID"

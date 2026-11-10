@@ -1,0 +1,5 @@
+.venv/
+r-runtime/renv/library/
+r-runtime/renv/staging/
+__pycache__/
+*.pyc
